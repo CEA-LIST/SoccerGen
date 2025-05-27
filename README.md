@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2><center>[CVPRW'25] Towards fine-grained spatial control for soccer game image generation</h2>
+<h2><center>[CVPRW 2025] Towards fine-grained spatial control for soccer game image generation</h2>
 
 Amadou S. Sangare, Adrien Maglo, Baptiste Engel, Mohamed Chaouch
 <br>
