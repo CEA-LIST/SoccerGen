@@ -4,7 +4,7 @@
 
 Amadou S. Sangare, Adrien Maglo, Baptiste Engel, Mohamed Chaouch
 <br>
-Universit e Paris-Saclay, CEA, List, F-91120, Palaiseau, France
+Université Paris-Saclay, CEA, List, F-91120, Palaiseau, France
 <br>
 </div>
 
