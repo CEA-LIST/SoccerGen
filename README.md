@@ -76,7 +76,7 @@ SoccerConditional
 |       └── m.npy
 |   └── metadata.json
 ```
-A .npy file contains the homography matrix from the soccer field template domain to the image domain. The metadata.json file should have the following structure:
+The .npy file contains the homography matrix from the soccer field template domain to the image domain. The metadata.json file should have the following structure:
 ```json
 [
   {
