@@ -212,6 +212,6 @@ One can either use our pre-trained checkpoint [checkpoints/soccergen_sd15.ckpt](
     @misc{sangare2025soccergen,
       title={Towards fine-grained spatial control for soccer game image generation}, 
       author={Amadou S. Sangare, Adrien Maglo, Baptiste Engel, Mohamed Chaouch},
-      booktile={CVPRW}
+      booktile={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}
       year={2025}
     }
