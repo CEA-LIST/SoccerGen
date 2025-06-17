@@ -209,9 +209,11 @@ One can either use our pre-trained checkpoint [checkpoints/soccergen_sd15.ckpt](
 
 # Citation
 
-    @misc{sangare2025soccergen,
-      title={Towards fine-grained spatial control for soccer game image generation}, 
-      author={Amadou S. Sangare, Adrien Maglo, Baptiste Engel, Mohamed Chaouch},
-      booktile={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}
-      year={2025}
+    @InProceedings{sangare2025soccergen,
+      author    = {Sangare, Amadou S. and Maglo, Adrien and Engel, Baptiste and Chaouch, Mohamed},
+      title     = {Towards fine-grained spatial control for soccer game image generation},
+      booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+      month     = {June},
+      year      = {2025},
+      pages     = {5957-5966}
     }
