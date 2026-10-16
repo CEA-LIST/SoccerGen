@@ -152,7 +152,7 @@ python train_controlnet.py \
 --seed 1337
 ```
 
-One can either use our pre-trained checkpoint [checkpoints/soccergen_ini.ckpt](models/soccergen_ini.ckpt) or its own.
+One can either use our pre-trained checkpoint [checkpoints/soccergen_ini.ckpt](https://huggingface.co/cea-list-ia/SoccerGen/resolve/main/soccergen_ini.ckpt?download=true) or its own.
 
 ## Inference
 
@@ -168,7 +168,7 @@ python stable_diffusion_inference.py \
 ```
 
 The `batch_size` argument specifies the number of images to generate. To activate the classifier guidance, give a `cfg_scale` > 1.0<br/>
-One can either use our pre-trained checkpoint [checkpoints/soccer_sd15.ckpt](checkpoints/soccer_sd15.ckpt) or its own.
+One can either use our pre-trained checkpoint [checkpoints/soccer_sd15.ckpt](https://huggingface.co/cea-list-ia/SoccerGen/resolve/main/soccer_sd15.ckpt?download=true) or its own.
 
 ### Inference with SoccerGen
 ```bash
@@ -205,7 +205,7 @@ python soccergen_inference.py \
 --save_path inferences
 ```
 
-One can either use our pre-trained checkpoint [checkpoints/soccergen_sd15.ckpt](checkpoints/soccergen_sd15.ckpt) or its own.
+One can either use our pre-trained checkpoint [checkpoints/soccergen_sd15.ckpt](https://huggingface.co/cea-list-ia/SoccerGen/resolve/main/soccergen_sd15.ckpt?download=true) or its own.
 
 # Citation
 
